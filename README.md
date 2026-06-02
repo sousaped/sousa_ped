@@ -52,7 +52,7 @@ Fique à vontade para explorar meus projetos, entrar em contato para discutir op
 
 ## 🗠 Atividade
 
-<div align="center">
+<div align="left">
 
 <img width="500" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sousaped&layout=compact&theme=radical"/>
 
