@@ -1,4 +1,4 @@
-# Olá![pacman gif](https://raw.githubusercontent.com/sousaped/sousaped/output/github-contribution-grid-pacman.svg)
+# Olá!
 
 Bem-vindo ao meu perfil!
 
@@ -55,9 +55,9 @@ Fique à vontade para explorar meus projetos, entrar em contato para discutir op
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=sousaped&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true)
+![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=sousaped&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=sousaped&langs_count=8&layout=compact&theme=radical&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sousaped&layout=compact&langs_count=8&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sousaped&theme=radical&hide_border=true&locale=pt_BR)
 
