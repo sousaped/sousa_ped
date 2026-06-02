@@ -10,21 +10,33 @@ Fique à vontade para explorar meus projetos, entrar em contato para discutir op
 ## 👾 Tecnologias
 
 ☕ Backend
-<br/><br/>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-<br/><br/><br/><br/>
+<br/><br/><br/>
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>&nbsp;&nbsp;&nbsp;
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>&nbsp;&nbsp;&nbsp;
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg"/>&nbsp;&nbsp;&nbsp;
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+<br/><br/><br/>
 🌐 Frontend
-<br/><br/>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
-<br/><br/><br/><br/>
+<br/><br/><br/>
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>&nbsp;&nbsp;&nbsp;
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>&nbsp;&nbsp;&nbsp;
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>&nbsp;&nbsp;&nbsp;
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
+<br/><br/><br/>
 🗄️ Banco de Dados
 <br/><br/>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
-<br/><br/><br/><br/>
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>&nbsp;&nbsp;&nbsp;
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+<br/><br/><br/>
 🛠️ Ferramentas
-<br/><br/>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
-<br/><br/><br/><br/>
+<br/><br/><br/>
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>&nbsp;&nbsp;&nbsp;
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>&nbsp;&nbsp;&nbsp;
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>&nbsp;&nbsp;&nbsp;
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg"/>&nbsp;&nbsp;&nbsp;
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"/>&nbsp;&nbsp;&nbsp;
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
+<br/><br/><br/>
 
 ---
 
