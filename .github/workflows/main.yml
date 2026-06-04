@@ -15,7 +15,7 @@ jobs:
         with:
           github_user_name: sousaped
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-white
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
